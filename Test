@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>好蒿爽爽</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <header>
+    <h1>好耶</h1>
+    <nav>
+        <ui>
+            <li><a href='https://youtu.be/4DZHxtMkibM'>介紹</a></li>
+            <li><a href='@'>密遊路線</a></li>
+            <li><a href='@'>旅人微薄</a></li>
+            <li><a href='@'>相關資訊</a></li>
+        </ui>
+    </nav>
+    </header>
+        <article>
+            <section>
+            <h2>充滿驚奇魅力的小島</h2>
+            <p>
+                簡直奇異
+            </p>
+        </section>
+        </article>
+        <aside>
+            <h2>推薦景點</h2>
+            <ol>
+                <li><a href="@">饅頭</a></li>
+                <li><a href="@">哭阿</a></li>
+                <li><a href="@">蒿耶</a></li>
+            </ol>
+
+        </aside>
+        <footer>想不到八</footer>
+        <hr>
+        <h2>認識</h2>
+<ul>
+    <li><a href="file:///C:/Users/user/Downloads/20221017b17.html">蒿耶</a></li>
+    <li><a href="mailto:frt26452@outlook.com"target=:_self>mail</a></li>
+    <li><a href="https://sites.google.com/hlc.edu.tw/roads/%E9%A6%96%E9%A0%81">網頁(可以進的
+    </a></li>
+    <li><a href="https://drive.google.com/file/d/1XnDir-LHN63Bc9gKzgj_NVmXcFc4Yzs1/view?usp=sharing">檔案下載</a></li>
+</ul>
+        </body>
+</html>
